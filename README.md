@@ -12,7 +12,10 @@
 
 
 # اینترنت آزاد برای نیازمندان
-فاز اول پروژه [MahsaNG](https://github.com/GFW-knocker/MahsaNG) منتشر شد. [دانلود آخرین نسخه اندروید](https://github.com/GFW-knocker/MahsaNG/releases/latest) . در این نسخه **کانفیگ های رایگان v2ray** برای عموم مردم ارائه شده و همچنین **یوتیوب و توییتر و برخی دیگر از سرویس ها** بصورت مستقیم آزاد شدند. در فاز بعدی با گسترش شبکه مهسا ، کانفیگ های چرخشی به تعداد انبوه و مجهز به پایشگر اتومات ارائه خواهد شد. MahsaNG قسمت کلاینت پروژه [Segaro Dream](https://github.com/GFW-knocker/Segaro_Dream) است.
+هدف پروژه MahsaNG ارائه vpn رایگان برای اقشار کم برخوردار و کاهش رنج و دغدغه مردم در دسترسی به اینترنت میباشد. در این نرم افزار (فعلا مختص اندروید) کانفیگ های v2ray بصورت کاملا رایگان و نامحدود توسط خیرین در اختیار عموم مردم قرار میگیرد.
+- [دانلود فیلترشکن MahsaNG vpn از google playstore](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
+- [دانلود مستقیم Mahsa ng vpn از گیتهاب](https://github.com/GFW-knocker/MahsaNG/releases/latest)
+- [کانال تلگرام برنامه @mahsa_net](https://t.me/mahsa_net)
 
 # یوتیوب ، اینستا و توییتر با اسکریپت پایتون:
 مستقیم - بدون سرور - <a href="https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy">نسخه آزمایشی</a><br>
