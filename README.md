@@ -17,8 +17,8 @@
 - [دانلود مستقیم Mahsa ng vpn از گیتهاب](https://github.com/GFW-knocker/MahsaNG/releases/latest)
 - [کانال تلگرام برنامه @mahsa_net](https://t.me/mahsa_net)
 
-# یوتیوب ، اینستا و توییتر با اسکریپت پایتون:
-مستقیم - بدون سرور - <a href="https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy">نسخه آزمایشی</a><br>
+# یوتیوب و توییتر با اسکریپت پایتون:
+ <a href="https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy"> یوتیوب بدون سرور</a><br>
 
 # آپدیت 25 خرداد
 - از اسکریپت randchunk استفاده کنید تا با دامنه فیلترشده نیز از فیلترینگ عبور کنید
@@ -31,8 +31,7 @@
 اسکریپت randchunk به نظر خیلی بهتر شد با اضافه کردن tcp_nodelay - ممنون از <a href="https://github.com/free-the-internet">free_the_internet@</a> بابت ایده<br>
 سرعت اسکریپت اول هم بهتر شد با همین tcp_nodelay - این کرنل رو مجبور میکنه که اسمبل نکنه رو سیستم خودمون<br>
 # آپدیت 5 اردیبهشت
-فایل جدید randchunk میاد پکت رو رندوم به 47 قسمت نامساوی تقسیم میکنه -به روش سامورایی با تاخیر کم- یه کوچولو بهتر شده انگار<br> 
-رو ایرانسل مشکل داریم همچنان ولی ترتیب اونم میدیم به امید خدا و یاری شما<br>
+فایل جدید randchunk میاد پکت رو رندوم به 47 قسمت نامساوی تقسیم میکنه<br> 
 این محصول نهایی نیست یه اسکریپت پایتونه جهت اثبات ادعا<br>
 <a href="https://twitter.com/rouzbehra/status/1651843600504979456">روزبه</a> فرگمنت را برای websocket روی 
 <a href="https://github.com/rrouzbeh/v2rayNG/releases">کلاینت v2rayNG</a>  پیاده کرده - بجای نصب پایتون روی گوشی میتوانید کانفیگ وبسوکت خود را به نسخه [v2rayNG روزبه](https://github.com/rrouzbeh/v2rayNG/releases) دهید <br>
@@ -101,7 +100,6 @@ so it's forced to Give up. LOL<br>
 # How to run
 فارسی بگم: کانفیگ وب سوکت با tls فعال پشت کلودفلر با پروکسی روشن لازمه<br>
 این اسکریپت ایپی کثیف کلودفلر رو دور میزنه و دامنه فیلترشده رو<br>
-فعلا غیر از ایرانسل رو باقی isp ها کار میکنه
 <br>
 1. assume that you have v2ray config {websocket+tls+Cloudflare}<br>
 2. setup pyprox listen_port and cloudflare_dirty_ip<br>
@@ -174,6 +172,6 @@ so it's forced to Give up. LOL<br>
 این سیستم تست شده و کار میکنه<br>
 و شما با domain فیلتر شده و با ip کثیف cloudflare میتوانید از gfw عبور کنید<br>
 با اندکی تنظیمات ، سرعت handshake اول هم بالا خواهد رفت<br>
-اینترنت برای همه یا برای هیچکس<br>
+اینترنت برای همه یا هییچکس<br>
 
 
